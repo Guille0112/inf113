@@ -1,0 +1,21 @@
+body{
+ background-color:#9fffff;
+}
+header{
+ color:Black;
+ text-align:right;
+}
+p{
+ color:#00e5e5;
+ text-align:center;
+ font-family:Verdana;
+}
+img{
+ width:400px;
+ height:300px;
+}
+footer{
+ text-align:center;
+ font-family:Arial;
+ color:blue;
+}
